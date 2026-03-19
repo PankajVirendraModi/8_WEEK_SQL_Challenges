@@ -20,6 +20,6 @@ Case Study #7 - Balanced Tree Clothing Co.
 Case Study #8 - Fresh Segments
 <br>
 
-Link for query and solution:
+## Link for query and solution:
 <br>
 https://drive.google.com/drive/folders/1Oxd5D96B_7wq1G8IkS5hB14lfy8rv-uZ
